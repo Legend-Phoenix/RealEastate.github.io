@@ -86,17 +86,17 @@ window.addEventListener('scroll', scrollActive)
 
 // ==================== SHOW SCROLL UP ====================
 
-function scrollUp(){
-  const scrollUp = document.getElementById('scroll-up') ; 
+// function scrollUp(){
+//   const scrollUp = document.getElementById('scroll-up') ;  
 
 
-  // when the scroll is highter then 360 wiewport height , add the 
+//   // when the scroll is highter then 360 wiewport height , add the 
 
 
-  if(this.scrollY >= 350)  scrollUp.classList.add('show-scroll') ; 
-}
+//   if(this.scrollY >= 350)  scrollUp.classList.add('show-scroll') ; 
+// }
 
-window.addEventListener('scroll', scrollUp)
+// window.addEventListener('scroll', scrollUp)
 
 
 // ==================DARK LIGHT THEME===================
