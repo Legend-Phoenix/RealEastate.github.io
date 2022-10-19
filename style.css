@@ -1311,6 +1311,9 @@ body.dark-theme{
  /* for large devices */
 
  @media screen and (min-width: 1021px) {
+    .main{
+        height: 4520px;
+    }
    .section{
     padding: 7.5rem 0 1rem ;
    } 
