@@ -245,7 +245,7 @@ button {
 
 .main {
     /* background-color: rgb(113, 109, 109);h */
-    height: 5000px;
+    height: 5403px;
 
     overflow: hidden;
 }
@@ -508,6 +508,7 @@ body.dark-theme{
     bottom: -18.5rem;
     box-shadow: 0 16px 32px hsla(228, 66%, 45%, .25);
     margin-left: 54px;
+    /* margin-bottom: 25rem; */
 }
 
 
@@ -591,6 +592,7 @@ body.dark-theme{
 
 .popular_container {
     padding: 1rem 0 5rem;
+    /* margin-top: 23rem; */
 }
 
 .popular_card {
@@ -924,7 +926,7 @@ body.dark-theme{
 }
 
 .subscirbe_title{
-    font-size: var(--h2-font-size);
+    /* font-size: var(--h2-font-size); */
     color: #fff;
     margin-bottom: 1rem;
 
@@ -1140,12 +1142,40 @@ body.dark-theme{
 
     }
     
+    
  }
 
  @media screen and (max-width: 923px) {
     .home_img{
-        margin-bottom: 25rem; 
-        /* by  me  */
+        margin-bottom: 29rem;
+        
+    margin-left: 35px;
+
+    }
+    .home{
+        height: 676px; 
+    }
+
+    .home_value{
+        margin-top: 19rem;
+        column-gap: 0.5rem;
+    }
+
+    .home_discription{
+        
+    font-size: 13px;
+    text-align: center;
+
+        text-align: center;
+    }
+    .home_title{
+        font-size: 41px;
+        margin-top: -3rem;
+        text-align: center;
+    }
+
+    .main{
+        height: 5500;
     }
     
  }
@@ -1272,6 +1302,7 @@ body.dark-theme{
         grid-template-columns: repeat(2,max-content);
         justify-content: space-between;
     }
+   
 
     
  }
@@ -1375,6 +1406,7 @@ body.dark-theme{
 
    .home_value{
     column-gap: 3.5rem;
+    margin-top: 8rem;
 
    }
 
@@ -1389,7 +1421,9 @@ body.dark-theme{
     width: 472px;
     height: 634px;
     border-radius: 236px 236px 0 0;
-    bottom: -2.5rem;
+    bottom: 2.5rem;
+    /* margin-bottom: 25rem; */
+    /* //////////////////////////////////////////////////////// */
    }
 
 

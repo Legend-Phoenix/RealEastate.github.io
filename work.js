@@ -87,9 +87,9 @@ window.addEventListener('scroll', scrollActive)
 // ==================== SHOW SCROLL UP ====================
 
 // function scrollUp(){
-//   const scrollUp = document.getElementById('scroll-up') ;  
+//   const scrollUp = document.getElementById('scroll-up') ; 
 
-
+  
 //   // when the scroll is highter then 360 wiewport height , add the 
 
 
