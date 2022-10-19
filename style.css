@@ -1157,6 +1157,7 @@ body.dark-theme{
     }
 
     .home_value{
+        text-align: center;
         margin-top: 24rem;
         column-gap: 0.5rem;
     }
