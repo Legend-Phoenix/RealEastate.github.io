@@ -1236,6 +1236,9 @@ body.dark-theme{
 
 
  @media screen and (min-width: 576px){
+    .main{
+        height: 4520px;
+    }
     .nav_menu{
         width: 342px;
 
@@ -1259,6 +1262,9 @@ body.dark-theme{
  }
 
  @media screen and (min-width: 767px) {
+    .main{
+        height: 4520px;
+    }
     .home_container{
         grid-template-columns: repeat(2,1fr);
         padding-top: 2rem;
