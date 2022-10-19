@@ -1147,7 +1147,7 @@ body.dark-theme{
 
  @media screen and (max-width: 923px) {
     .home_img{
-        margin-bottom: 21rem;
+        margin-bottom: 37rem;
         
     margin-left: 35px;
 
@@ -1157,7 +1157,7 @@ body.dark-theme{
     }
 
     .home_value{
-        margin-top: 19rem;
+        margin-top: 24rem;
         column-gap: 0.5rem;
     }
 
