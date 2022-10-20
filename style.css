@@ -1575,3 +1575,28 @@ body.dark-theme{
     } */
     
  /* } */
+
+
+
+ .sticky_bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    width: 46px;
+    height: 139px;
+    position: fixed;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    box-shadow: 0 8px 24px hsl(0deg 0% 0% / 25%);
+    z-index: 9;
+    margin-top: 7rem;
+ }
+ .virtical_links li {
+    height: 28px;
+    width: 21px;
+    margin-top: 9px;
+   
+
+ }
