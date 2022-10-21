@@ -1568,16 +1568,6 @@ body.dark-theme{
  }
 
 
- /* @media screen and (min-width: 1040px) {
-    .container{
-        margin-left: auto;
-        margin-right: auto;
-    } */
-    
- /* } */
-
-
-
  .sticky_bar{
     display: flex;
     flex-direction: column;
@@ -1591,7 +1581,7 @@ body.dark-theme{
     border-bottom-right-radius: 14px;
     box-shadow: 0 8px 24px hsl(0deg 0% 0% / 25%);
     z-index: 9;
-    margin-top: 8.5rem;
+    margin-top: 14.5rem;
  }
  .virtical_links li {
     height: 28px;
