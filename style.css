@@ -405,11 +405,13 @@ body.dark-theme{
 }
 /* ====================== Home ================= */
 .home {
-    background: linear-gradient(170deg,
+    /* background: linear-gradient(170deg,
             hsl(0, 0%, 22%) 0%,
-            hsl(0, 0%, 6%) 30%);
+
+            hsl(0, 0%, 6%) 30%); */
     /* background: white; */
 
+    background: linear-gradient(181deg, hsl(0deg 3% 82%) 0%, hsl(183deg 58% 32%) 30%);
     height: 774px
         /* padding-bottom: 0 ;
     padding-top: 10px; */
@@ -723,7 +725,10 @@ body.dark-theme{
 }
 
 .value_accordion-item{
-    background-color: var(--body-color);
+    /* background-color: var(--body-color); */
+    
+    background-color: rgb(141 248 232);
+
     /* background-color: rebeccapurple; */
     border: 2px solid var(--border-color);
     border-radius: .5rem;
